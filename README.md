@@ -29,9 +29,13 @@ This project uses several clustering algorithms to explore whether patients can 
 
 ## Recommendation
 Figure 1 - t-SNE:
+
 ![t-SNE](images/tsne.png)
+
 Figure 2 - K-means:
+
 ![K-Means](images/kmeans.png)
+
 Based on the K-Means elbow curve, the patients can be grouped into three clusters. This finding is supported by the clustering visible in the scatter plot based on the t-SNE output, which shows three diagonal bands.
 
 
